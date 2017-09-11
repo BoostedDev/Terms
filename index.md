@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-# **TERMS OF SERVICE AGREEMENT**
+# TERMS OF SERVICE AGREEMENT
 PLEASE READ THE FOLLOWING TERMS OF SERVICE AGREEMENT CAREFULLY.
 BY ACCESSING OR USING OUR SITES AND OUR SERVICES, YOU HEREBY
 AGREE TO BE BOUND BY THE TERMS AND ALL TERMS INCORPORATED HEREIN
@@ -10,16 +10,21 @@ BEFORE PROCEEDING TO USE THIS APP. IF YOU DO NOT EXPRESSLY AGREE
 TO ALL OF THE TERMS AND CONDITIONS, THEN PLEASE DO NOT ACCESS OR
 USE OUR SITE OR OUR SERVICES. THIS TERMS OF SERVICE AGREEMENT IS
 EFFECTIVE AS OF 09/12/2017.
-ACCEPTANCE OF TERMS
+
+## ACCEPTANCE OF TERMS
 The following Terms of Service Agreement (the "TOS") is a legally binding agreement that shall
 govern the relationship with our users and others which may interact or interface with Boosted
 Fitness, LLC, also known as Boosted Fitness, located at P.O. Box 1296, Lubbock, Texas 79408
 and our subsidiaries and affiliates, in association with the use of the Boosted Fitness app, which
 includes the Boosted Fitness mobile app, (the "Site") and its Services, which shall be defined
 below.
-DESCRIPTION OF WEBSITE SERVICES OFFERED
+
+
+## DESCRIPTION OF WEBSITE SERVICES OFFERED
 The Site is which has the following description:
+
 A mobile fitness application which advertises local and online discounts to users
+
 Any and all visitors to our site, despite whether they are registered or not, shall be deemed as
 "users" of the herein contained Services provided for the purpose of this TOS. Once an
 individual register's for our Services, through the process of creating an account, the user shall
@@ -45,7 +50,9 @@ Furthermore, the user and/or member understands, acknowledges and agrees that th
 offered shall be provided "AS IS" and as such Boosted Fitness, LLC shall not assume any
 responsibility or obligation for the timeliness, missed delivery, deletion and/or any failure to
 store user content, communication or personalization settings.
-REGISTRATION
+
+
+## REGISTRATION
 To register and become a "member" of the Site, you must be at least 13 years of age. In addition,
 you must be in good standing and not an individual that has been previously barred from
 receiving Boosted Fitness's Services under the laws and statutes of the United States or other
@@ -55,14 +62,19 @@ birth date, gender, mailing address, occupation, industry and personal interests
 account information at any time. Once you register with Boosted Fitness and sign in to our Services, you
 are no longer anonymous to us.
 Furthermore, the registering party hereby acknowledges, understands and agrees to:
+
 a) furnish factual, correct, current and complete information with regards to yourself as may
 be requested by the data registration process, and
+
 b) maintain and promptly update your registration and profile information in an effort to
 maintain accuracy and completeness at all times.
+
 If anyone knowingly provides any information of a false, untrue, inaccurate or incomplete
 nature, Boosted Fitness, LLC will have sufficient grounds and rights to suspend or terminate the
 member in violation of this aspect of the Agreement, and as such refuse any and all current or
 future use of Boosted Fitness, LLC Services, or any portion thereof.
+
+
 It is Boosted Fitness, LLC's priority to ensure the safety and privacy of all its visitors, users and
 members, especially that of children. Therefore, it is for this reason that the parents of any child
 under the age of 13 that permit their child or children access to the Boosted Fitness website
@@ -73,14 +85,16 @@ thereby granting permission for his/her child or children to access the various 
 including, but not limited to, message boards, email, and/or instant messaging. It is the parent's
 and/or legal guardian's responsibility to determine whether any of the Services and/or content
 provided are age-appropriate for his/her child.
-PRIVACY POLICY
+## PRIVACY POLICY
+
 Every member's registration data and various other personal information are strictly protected by
 the Boosted Fitness, LLC Online Privacy Policy (see the full Privacy Policy at
 http://privacypolicy.boostedfitnessapp.com/). As a member, you herein consent to the collection
 and use of the information provided, including the transfer of information within the United
 States and/or other countries for storage, processing or use by Boosted Fitness, LLC and/or our
 subsidiaries and affiliates.
-MEMBER ACCOUNT, USERNAME, PASSWORD AND SECURITY
+
+## MEMBER ACCOUNT, USERNAME, PASSWORD AND SECURITY
 When you set up an account, you are the sole authorized user of your account. You shall be
 responsible for maintaining the secrecy and confidentiality of your password and for all activities
 that transpire on or within your account. It is your responsibility for any act or omission of any
@@ -89,7 +103,8 @@ violation of the TOS. It shall be your responsibility to notify Boosted Fitness,
 if you notice any unauthorized access or use of your account or password or any other breach of
 security. Boosted Fitness, LLC shall not be held liable for any loss and/or damage arising from
 any failure to comply with this term and/or condition of the TOS.
-CONDUCT
+
+## CONDUCT
 As a user or member of the Site, you herein acknowledge, understand and agree that all
 information, text, software, data, photographs, music, video, messages, tags or any other content,
 whether it is publicly or privately posted and/or transmitted, is the expressed sole responsibility
@@ -102,49 +117,65 @@ posted, and/or any loss or damage of any kind incurred as a result of the use of
 posted, emailed, transmitted or otherwise made available by Boosted Fitness.
 Furthermore, you herein agree not to make use of Boosted Fitness, LLC's Services for the
 purpose of:
+
 a) uploading, posting, emailing, transmitting, or otherwise making available any content that
 shall be deemed unlawful, harmful, threatening, abusive, harassing, tortious, defamatory,
 vulgar, obscene, libelous, or invasive of another's privacy or which is hateful, and/or
 racially, ethnically, or otherwise objectionable;
+
 b) causing harm to minors in any manner whatsoever;
+
 c) impersonating any individual or entity, including, but not limited to, any Boosted Fitness
 officials, forum leaders, guides or hosts or falsely stating or otherwise misrepresenting
 any affiliation with an individual or entity;
+
 d) forging captions, headings or titles or otherwise offering any content that you personally
 have no right to pursuant to any law nor having any contractual or fiduciary relationship
 with;
+
 e) uploading, posting, emailing, transmitting or otherwise offering any such content that
 may infringe upon any patent, copyright, trademark, or any other proprietary or
 intellectual rights of any other party;
+
 f) uploading, posting, emailing, transmitting or otherwise offering any content that you do
 not personally have any right to offer pursuant to any law or in accordance with any
 contractual or fiduciary relationship;
+
 g) uploading, posting, emailing, transmitting, or otherwise offering any unsolicited or
 unauthorized advertising, promotional flyers, "junk mail," "spam," or any other form of
 solicitation, except in any such areas that may have been designated for such purpose;
+
 h) uploading, posting, emailing, transmitting, or otherwise offering any source that may
 contain a software virus or other computer code, any files and/or programs which have
 been designed to interfere, destroy and/or limit the operation of any computer software,
 hardware, or telecommunication equipment;
+
 i) disrupting the normal flow of communication, or otherwise acting in any manner that
 would negatively affect other users' ability to participate in any real time interactions;
+
 j) interfering with or disrupting any Boosted Fitness, LLC Services, servers and/or
 networks that may be connected or related to our website, including, but not limited to,
 the use of any device software and/or routine to bypass the robot exclusion headers;
+
 k) intentionally or unintentionally violating any local, state, federal, national or international
 law, including, but not limited to, rules, guidelines, and/or regulations decreed by the
 U.S. Securities and Exchange Commission, in addition to any rules of any nation or other
 securities exchange, that would include without limitation, the New York Stock
 Exchange, the American Stock Exchange, or the NASDAQ, and any regulations having
 the force of law;
+
 l) providing informational support or resources, concealing and/or disguising the character,
 location, and or source to any organization delegated by the United States government as
 a "foreign terrorist organization" in accordance to Section 219 of the Immigration
 Nationality Act;
+
 m) "stalking" or with the intent to otherwise harass another individual; and/or
+
 n) collecting or storing of any personal data relating to any other member or user in
 connection with the prohibited conduct and/or activities which have been set forth in the
 aforementioned paragraphs.
+
+
 Boosted Fitness, LLC herein reserves the right to pre-screen, refuse and/or delete any content
 currently available through our Services. In addition, we reserve the right to remove and/or
 delete any such content that would violate the TOS or which would otherwise be considered
@@ -152,13 +183,19 @@ offensive to other visitors, users and/or members.
 Boosted Fitness, LLC herein reserves the right to access, preserve and/or disclose member
 account information and/or content if it is requested to do so by law or in good faith belief that
 any such action is deemed reasonably necessary for:
+
 a) compliance with any legal process;
+
 b) enforcement of the TOS;
+
 c) responding to any claim that therein contained content is in violation of the rights of any
 third party;
+
 d) responding to requests for customer service; or
+
 e) protecting the rights, property or the personal safety of Boosted Fitness, LLC, its visitors,
 users and members, including the general public.
+
 Boosted Fitness, LLC herein reserves the right to include the use of security components that may
 permit digital information or material to be protected, and that such use of information and/or
 material is subject to usage guidelines and regulations established by Boosted Fitness, LLC or
@@ -167,13 +204,15 @@ prohibited from making any attempt to override or circumvent any of the embedded
 in our Services. Furthermore, unauthorized reproduction, publication, distribution, or exhibition
 of any information or materials supplied by our Services, despite whether done so in whole or in
 part, is expressly prohibited.
-INTERSTATE COMMUNICATION
+
+## INTERSTATE COMMUNICATION
 Upon registration, you hereby acknowledge that by using Boosted Fitness to send electronic
 communications, which would include, but are not limited to, email, searches, instant messages,
 uploading of files, photos and/or videos, you will be causing communications to be sent through
 our computer network. Therefore, through your use, and thus your agreement with this TOS, you
 are acknowledging that the use of this Service shall result in interstate transmissions.
-CAUTIONS FOR GLOBAL USE AND EXPORT AND IMPORT COMPLIANCE
+
+## CAUTIONS FOR GLOBAL USE AND EXPORT AND IMPORT COMPLIANCE
 Due to the global nature of the internet, through the use of our network you hereby agree to
 comply with all local rules relating to online conduct and that which is considered acceptable
 Content. Uploading, posting and/or transferring of software, technology and other technical data
@@ -183,21 +222,27 @@ laws, statutes and regulations, including, but not limited to, the Export Admini
 Regulations (http://www.access.gpo.gov/bis/ear/ear_data.html), as well as the sanctions control
 program of the United States (http://www.treasury.gov/resourcecenter/sanctions/Programs/Pages/Programs.aspx).
 Furthermore, you state and pledge that you:
+
 a) are not on the list of prohibited individuals which may be identified on any government
 export exclusion report (http://www.bis.doc.gov/complianceandenforcement/liststocheck.htm)
 nor a member of any other government which may be part of an export-prohibited
 country identified in applicable export and import laws and regulations;
+
 b) agree not to transfer any software, technology or any other technical data through the use
 of our network Services to any export-prohibited country;
+
 c) agree not to use our website network Services for any military, nuclear, missile, chemical
 or biological weaponry end uses that would be a violation of the U.S. export laws; and
+
 d) agree not to post, transfer nor upload any software, technology or any other technical data
 which would be in violation of the U.S. or other applicable export and/or import laws.
-CONTENT PLACED OR MADE AVAILABLE FOR COMPANY SERVICES
+
+## CONTENT PLACED OR MADE AVAILABLE FOR COMPANY SERVICES
 Boosted Fitness, LLC shall not lay claim to ownership of any content submitted by any visitor,
 member, or user, nor make such content available for inclusion on our website Services.
 Therefore, you hereby grant and allow for Boosted Fitness, LLC the below listed worldwide,
 royalty-free and non-exclusive licenses, as applicable:
+
 a) The content submitted or made available for inclusion on the publicly accessible areas of
 Boosted Fitness, LLC's sites, the license provided to permit to use, distribute, reproduce,
 modify, adapt, publicly perform and/or publicly display said Content on our network
@@ -205,6 +250,7 @@ Services is for the sole purpose of providing and promoting the specific area to
 content was placed and/or made available for viewing. This license shall be available so
 long as you are a member of Boosted Fitness, LLC's sites, and shall terminate at such
 time when you elect to discontinue your membership.
+
 b) Photos, audio, video and/or graphics submitted or made available for inclusion on the
 publicly accessible areas of Boosted Fitness, LLC's sites, the license provided to permit
 to use, distribute, reproduce, modify, adapt, publicly perform and/or publicly display said
@@ -212,6 +258,7 @@ Content on our network Services are for the sole purpose of providing and promot
 specific area in which this content was placed and/or made available for viewing. This
 license shall be available so long as you are a member of Boosted Fitness, LLC's sites
 and shall terminate at such time when you elect to discontinue your membership.
+
 c) For any other content submitted or made available for inclusion on the publicly
 accessible areas of Boosted Fitness, LLC's sites, the continuous, binding and completely
 sub-licensable license which is meant to permit to use, distribute, reproduce, modify,
@@ -223,20 +270,28 @@ are those such areas of our network properties which are meant to be available t
 public, and which would include message boards and groups that are openly available to both
 users and members. However, those areas which are not open to the public, and thus available to
 members only, would include our mail system and instant messaging.
-CONTRIBUTIONS TO COMPANY WEBSITE
+
+
+## CONTRIBUTIONS TO COMPANY WEBSITE
 Boosted Fitness, LLC provides an area for our users and members to contribute feedback to our
 Site. When you submit ideas, documents, suggestions and/or proposals ("Contributions") to our
 site, you acknowledge and agree that:
+
 a) your contributions do not contain any type of confidential or proprietary information;
+
 b) Boosted Fitness shall not be liable or under any obligation to ensure or maintain
 confidentiality, expressed or implied, related to any Contributions;
+
 c) Boosted Fitness shall be entitled to make use of and/or disclose any such Contributions in
 any such manner as they may see fit;
+
 d) the contributor's Contributions shall automatically become the sole property of Boosted
 Fitness; and
+
 e) Boosted Fitness is under no obligation to either compensate or provide any form of
 reimbursement in any manner or nature.
-INDEMNITY
+
+## INDEMNITY
 All users and/or members herein agree to insure and hold Boosted Fitness, LLC, our subsidiaries,
 affiliates, agents, employees, officers, partners and/or licensors blameless or not liable for any
 claim or demand, which may include, but is not limited to, reasonable attorney fees made by any
@@ -269,13 +324,17 @@ search your message history from any computer with internet access. You also ack
 others have the option to use and save conversations with you in their own personal account on
 Boosted Fitness. It is your agreement to this TOS which establishes your consent to allow
 Boosted Fitness, LLC to store any and all communications on its servers.
-MODIFICATIONS
+
+
+## MODIFICATIONS
 Boosted Fitness, LLC shall reserve the right at any time it may deem fit, to modify, alter and or
 discontinue, whether temporarily or permanently, our service, or any part thereof, with or
 without prior notice. In addition, we shall not be held liable to you or to any third party for any
 such alteration, modification, suspension and/or discontinuance of our Services, or any part
 thereof.
-TERMINATION
+
+
+## TERMINATION
 As a member of Boosted Fitness, you may cancel or terminate your account, associated email
 address and/or access to our Services by submitting a cancellation or termination request to
 boostedfitnessapp@gmail.com.
@@ -283,6 +342,7 @@ As a member, you agree that Boosted Fitness, LLC may, without any prior written 
 immediately suspend, terminate, discontinue and/or limit your account, any email associated
 with your account, and access to any of our Services. The cause for such termination,
 discontinuance, suspension and/or limitation of access shall include, but is not limited to:
+
 a) any breach or violation of our TOS or any other incorporated agreement, regulation
 and/or guideline;
 b) by way of requests from law enforcement or any other governmental agencies;
@@ -311,7 +371,8 @@ representation associated with such dealings, are and shall be solely between yo
 advertiser. Moreover, you herein agree that Boosted Fitness, LLC shall not be held responsible
 or liable for any loss or damage of any nature or manner incurred as a direct result of any such
 dealings or as a result of the presence of such advertisers on our website.
-LINKS
+
+## LINKS
 Either Boosted Fitness, LLC or any third parties may provide links to other websites and/or
 resources. Thus, you acknowledge and agree that we are not responsible for the availability of
 any such external sites or resources, and as such, we do not endorse nor are we responsible or
@@ -321,7 +382,8 @@ LLC shall not be responsible or liable, directly or indirectly, for any such dam
 may be a result of, caused or allegedly to be caused by or in connection with the use of or the
 reliance on any such content, goods or Services made available on or through any such site or
 resource.
-PROPRIETARY RIGHTS
+
+## PROPRIETARY RIGHTS
 You do hereby acknowledge and agree that Boosted Fitness, LLC's Services and any essential
 software that may be used in connection with our Services ("Software") shall contain proprietary
 and confidential material that is protected by applicable intellectual property rights and other
@@ -343,7 +405,8 @@ including and without limitation, for the purpose of obtaining unauthorized acce
 Services. Lastly, you also agree not to access or attempt to access our Services through any
 means other than through the interface which is provided by Boosted Fitness, LLC for use in
 accessing our Services.
-WARRANTY DISCLAIMERS
+
+## WARRANTY DISCLAIMERS
 YOU HEREIN EXPRESSLY ACKNOWLEDGE AND AGREE THAT:
 a) THE USE OF BOOSTED FITNESS, LLC SERVICES AND SOFTWARE ARE AT
 THE SOLE RISK BY YOU. OUR SERVICES AND SOFTWARE SHALL BE
@@ -412,7 +475,8 @@ directors, employees, agents, parent subsidiaries, affiliates, co-branders, part
 third parties) from claims, demands and damages (actual and consequential) of every kind and
 nature, known and unknown, suspected or unsuspected, disclosed and undisclosed, arising out of
 or in any way connected to such dispute.
-SPECIAL ADMONITION RELATED TO FINANCIAL MATTERS
+
+## SPECIAL ADMONITION RELATED TO FINANCIAL MATTERS
 Should you intend to create or to join any service, receive or request any such news, messages,
 alerts or other information from our Services concerning companies, stock quotes, investments or
 securities, please review the above Sections Warranty Disclaimers and Limitations of Liability
@@ -423,16 +487,20 @@ investing purposes. Boosted Fitness, LLC and our licensors shall not be responsi
 the accuracy, usefulness or availability of any information transmitted and/or made available by
 way of our Services, and shall not be responsible or liable for any trading and/or investment
 decisions based on any such information.
-EXCLUSION AND LIMITATIONS
+
+## EXCLUSION AND LIMITATIONS
 THERE ARE SOME JURISDICTIONS WHICH DO NOT ALLOW THE EXCLUSION OF
 CERTAIN WARRANTIES OR THE LIMITATION OF EXCLUSION OF LIABILITY FOR
 INCIDENTAL OR CONSEQUENTIAL DAMAGES. THEREFORE, SOME OF THE ABOVE
 LIMITATIONS OF SECTIONS WARRANTY DISCLAIMERS AND LIMITATION OF
 LIABILITY MAY NOT APPLY TO YOU.
-THIRD PARTY BENEFICIARIES
+
+
+## THIRD PARTY BENEFICIARIES
 You herein acknowledge, understand and agree, unless otherwise expressly provided in this
 TOS, that there shall be no third-party beneficiaries to this agreement.
-NOTICE
+
+## NOTICE
 Boosted Fitness, LLC may furnish you with notices, including those with regards to any changes
 to the TOS, including but not limited to email, regular mail, MMS or SMS, text messaging,
 postings on our Site Services, or other reasonable means currently known or any which may be
@@ -440,14 +508,16 @@ herein after developed. Any such notices may not be received if you violate any 
 TOS by accessing our Services in an unauthorized manner. Your acceptance of this TOS
 constitutes your agreement that you are deemed to have received any and all notices that would
 have been delivered had you accessed our Services in an authorized manner.
-TRADEMARK INFORMATION
+
+## TRADEMARK INFORMATION
 You herein acknowledge, understand and agree that all of the Boosted Fitness, LLC trademarks,
 copyright, trade name, service marks, and other Boosted Fitness, LLC logos and any brand
 features, and/or product and service names are trademarks and as such, are and shall remain the
 property of Boosted Fitness, LLC. You herein agree not to display and/or use in any manner the
 Boosted Fitness, LLC logo or marks without obtaining Boosted Fitness, LLC's prior written
 consent.
-COPYRIGHT OR INTELLECTUAL PROPERTY INFRINGEMENT CLAIMS NOTICE
+
+## COPYRIGHT OR INTELLECTUAL PROPERTY INFRINGEMENT CLAIMS NOTICE
 & PROCEDURES
 Boosted Fitness, LLC will always respect the intellectual property of others, and we ask that all of
 our users do the same. With regards to appropriate circumstances and at its sole discretion,
@@ -470,25 +540,34 @@ intellectual property owner, representative or agent authorized to act on the co
 intellectual property owner's behalf.
 The Boosted Fitness, LLC Agent for notice of claims of copyright or other intellectual property
 infringement can be contacted as follows:
-Mailing Address:
+
+## Mailing Address:
 Boosted Fitness, LLC
 Attn: Copyright Agent
 P.O. Box 1296
 Lubbock, Texas 79408
 Telephone: 5053312166
 Email: boostedfitnessapp@gmail.com
-CLOSED CAPTIONING
+
+
+## CLOSED CAPTIONING
 BE IT KNOWN, that Boosted Fitness, LLC complies with all applicable Federal
 Communications Commission rules and regulations regarding the closed captioning of video
 content. For more information, please visit our website at Boosted Fitness.
-GENERAL INFORMATION
-ENTIRE AGREEMENT
+
+
+### GENERAL INFORMATION
+
+## ENTIRE AGREEMENT
+
 This TOS constitutes the entire agreement between you and Boosted Fitness, LLC and shall
 govern the use of our Services, superseding any prior version of this TOS between you and us
 with respect to Boosted Fitness, LLC Services. You may also be subject to additional terms and
 conditions that may apply when you use or purchase certain other Boosted Fitness, LLC
 Services, affiliate Services, third-party content or third-party software.
-CHOICE OF LAW AND FORUM
+
+
+## CHOICE OF LAW AND FORUM
 It is at the mutual agreement of both you and Boosted Fitness, LLC with regard to the TOS that
 the relationship between the parties shall be governed by the laws of the state of Texas without
 regard to its conflict of law provisions and that any and all claims, causes of action and/or
@@ -498,20 +577,30 @@ Texas or the U.S. District Court located in said state. You and Boosted Fitness,
 submit to the jurisdiction of the courts as previously mentioned, and agree to waive any and all
 objections to the exercise of jurisdiction over the parties by such courts and to venue in such
 courts.
-WAIVER AND SEVERABILITY OF TERMS
+
+
+## WAIVER AND SEVERABILITY OF TERMS
 At any time, should Boosted Fitness, LLC fail to exercise or enforce any right or provision of the
 TOS, such failure shall not constitute a waiver of such right or provision. If any provision of this 
 TOS is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree
 that the court should endeavor to give effect to the parties' intentions as reflected in the
 provision, and the other provisions of the TOS remain in full force and effect.
-NO RIGHT OF SURVIVORSHIP NON-TRANSFERABILITY
+
+
+## NO RIGHT OF SURVIVORSHIP NON-TRANSFERABILITY
 You acknowledge, understand and agree that your account is non-transferable and any rights to
 your ID and/or contents within your account shall terminate upon your death. Upon receipt of a
 copy of a death certificate, your account may be terminated and all contents therein permanently
 deleted.
-STATUTE OF LIMITATIONS
+
+
+## STATUTE OF LIMITATIONS
 You acknowledge, understand and agree that regardless of any statute or law to the contrary, any
 claim or action arising out of or related to the use of our Services or the TOS must be filed within
 3 year(s) after said claim or cause of action arose or shall be forever barred.
-VIOLATIONS
+
+
+## VIOLATIONS
 Please report any and all violations of this TOS to Boosted Fitness, LLC as follows:
+
+
