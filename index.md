@@ -85,6 +85,8 @@ thereby granting permission for his/her child or children to access the various 
 including, but not limited to, message boards, email, and/or instant messaging. It is the parent's
 and/or legal guardian's responsibility to determine whether any of the Services and/or content
 provided are age-appropriate for his/her child.
+
+
 ## PRIVACY POLICY
 
 Every member's registration data and various other personal information are strictly protected by
@@ -299,10 +301,14 @@ third party which may arise from any content a member or user of our site may su
 modify, transmit or otherwise make available through our Services, the use of Boosted Fitness
 Services or your connection with these Services, your violations of the Terms of Service and/or
 your violation of any such rights of another person.
-COMMERCIAL REUSE OF SERVICES
+
+
+## COMMERCIAL REUSE OF SERVICES
 The member or user herein agrees not to replicate, duplicate, copy, trade, sell, resell nor exploit
 for any commercial reason any part, use of, or access to Boosted Fitness's sites.
-USE AND STORAGE GENERAL PRACTICES
+
+
+## USE AND STORAGE GENERAL PRACTICES
 You herein acknowledge that Boosted Fitness, LLC may set up any such practices and/or limits
 regarding the use of our Services, without limitation of the maximum number of days that any
 email, message posting or any other uploaded content shall be retained by Boosted Fitness, LLC,
@@ -363,7 +369,9 @@ a) the removal of any access to all or part of the Services offered within Boost
 b) the deletion of your password and any and all related information, files, and any such
 content that may be associated with or inside your account, or any part thereof; and
 c) the barring of any further use of all or part of our Services.
-ADVERTISERS
+
+
+## ADVERTISERS
 Any correspondence or business dealings with, or the participation in any promotions of,
 advertisers located on or through our Services, which may include the payment and/or delivery
 of such related goods and/or Services, and any such other term, condition, warranty and/or
@@ -454,7 +462,9 @@ PHYSICIAN IF YOU EXPERIENCE ANY OF THE FOLLOWING SYMPTOMS
 WHILE USING OUR SERVICES: DIZZINESS, ALTERED VISION, EYE OR
 MUSCLE TWITCHES, LOSS OF AWARENESS, DISORIENTATION, ANY
 INVOLUNTARY MOVEMENT, OR CONVULSIONS.
-LIMITATION OF LIABILITY
+
+
+## LIMITATION OF LIABILITY
 YOU EXPLICITLY ACKNOWLEDGE, UNDERSTAND AND AGREE THAT BOOSTED
 FITNESS, LLC AND OUR SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES,
 AGENTS, PARTNERS AND LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY
@@ -469,7 +479,9 @@ c) UNAUTHORIZED ACCESS TO OR THE ALTERATION OF YOUR
 TRANSMISSIONS AND/OR DATA;
 d) STATEMENTS OR CONDUCT OF ANY SUCH THIRD PARTY ON OUR SERVICE;
 e) AND ANY OTHER MATTER WHICH MAY BE RELATED TO OUR SERVICE.
-RELEASE
+
+
+## RELEASE
 In the event you have a dispute, you agree to release Boosted Fitness, LLC (and its officers,
 directors, employees, agents, parent subsidiaries, affiliates, co-branders, partners and any other
 third parties) from claims, demands and damages (actual and consequential) of every kind and
@@ -541,14 +553,22 @@ intellectual property owner's behalf.
 The Boosted Fitness, LLC Agent for notice of claims of copyright or other intellectual property
 infringement can be contacted as follows:
 
-## Mailing Address:
+**Mailing Address:**
+``` 
 Boosted Fitness, LLC
 Attn: Copyright Agent
 P.O. Box 1296
 Lubbock, Texas 79408
-Telephone: 5053312166
-Email: boostedfitnessapp@gmail.com
+```
+**Email:**
+```
+isaac@boostedfitnessapp.com
+```
 
+**Telephone Number:**
+```
+(505) 331-2166
+```
 
 ## CLOSED CAPTIONING
 BE IT KNOWN, that Boosted Fitness, LLC complies with all applicable Federal
@@ -602,5 +622,22 @@ claim or action arising out of or related to the use of our Services or the TOS 
 
 ## VIOLATIONS
 Please report any and all violations of this TOS to Boosted Fitness, LLC as follows:
+
+**Mailing Address:**
+``` 
+Boosted Fitness, LLC
+Attn: Copyright Agent
+P.O. Box 1296
+Lubbock, Texas 79408
+```
+**Email:**
+```
+isaac@boostedfitnessapp.com
+```
+
+**Telephone Number:**
+```
+(505) 331-2166
+```
 
 
