@@ -626,7 +626,6 @@ Please report any and all violations of this TOS to Boosted Fitness, LLC as foll
 **Mailing Address:**
 ``` 
 Boosted Fitness, LLC
-Attn: Copyright Agent
 P.O. Box 1296
 Lubbock, Texas 79408
 ```
